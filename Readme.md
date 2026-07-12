@@ -2,6 +2,7 @@
 
 A simple weather app built with HTML, CSS, and JavaScript that lets you search any city and instantly view its current temperature and weather conditions. It fetches real-time weather data using a Weather API.
 
+<img width="1043" height="637" alt="image" src="https://github.com/user-attachments/assets/60888b23-4f32-4dea-b04d-a6d5b5393f97" />
 <video controls src="Demo.mp4" title="Title"></video>
 
 ## What it does
